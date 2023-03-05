@@ -1,8 +1,8 @@
 # how to serve static content from nginx?
 
 TLDR; 
-hosting dist content with nginx configuration in config using Dockerfile.  
-run.sh will build and run the image.
+hosting **dist** content with nginx configuration in **config/default.conf** using **Dockerfile**.  
+**run.sh** will build and run the image.
 
 
 ## concepts can be seen
