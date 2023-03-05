@@ -21,5 +21,9 @@ hosting **dist** content with nginx configuration in **config/default.conf** usi
 4. **run.sh**: script to build image and run
 
 
+## References
+
+1. https://docs.nginx.com/nginx/admin-guide/web-server/serving-static-content/ 
+2. http://nginx.org/en/docs/http/ngx_http_core_module.html
 
 
