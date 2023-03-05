@@ -1,0 +1,16 @@
+:root {
+    --theme-primary-color: rgb(55 241 151);
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#svgPhoto {
+    display: block;
+    margin: auto;
+    border: 5px solid var(--theme-primary-color);
+}
