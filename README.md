@@ -15,6 +15,7 @@ documentation, poc, testbeds, how-tos, etc
 1. nginx docs: https://docs.nginx.com/nginx/admin-guide/ 
 2. detail blog on context: https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts
 3. Http core module doc for directives application in context: http://nginx.org/en/docs/http/ngx_http_core_module.html 
+4. directive list: https://nginx.org/en/docs/dirindex.html
 
 ## courses or other sources
 1. Linkedin learning course: https://www.linkedin.com/learning/learning-nginx-17014605/ 
